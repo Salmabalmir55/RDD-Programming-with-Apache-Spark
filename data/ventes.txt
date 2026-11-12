@@ -1,0 +1,10 @@
+# date city product price
+2023-01-05 Casablanca Laptop 1200.00
+2023-02-12 Rabat Phone 650.00
+2023-03-18 Casablanca Mouse 25.50
+2024-01-10 Marrakech Tablet 410.00
+2024-02-22 Rabat Laptop 1180.00
+2024-04-09 Casablanca Monitor 275.00
+2025-01-14 Marrakech Phone 590.00
+2025-03-02 Rabat Mouse 30.00
+2025-06-21 Casablanca Phone 720.00
